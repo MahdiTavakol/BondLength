@@ -2,9 +2,12 @@
 * =============================================================================
 *
 * This program calculates the bond length from the xyz file for a GO system
+* Author:  Mahdi Tavakol (mahditavakol90@gmail.com)
+* Version: 09.25.2016
 *
 * =============================================================================
 */
+
 
 
 #include <iostream>
